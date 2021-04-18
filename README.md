@@ -7,3 +7,5 @@ add your tokin bot , and your account id , and uplode file to host .. or server 
 you can also use the api in any php script .. its free and puplic ..
 
 you can send me your question on telegram : @samer00s
+
+you caan use the demo bot in : https://t.me/sshot4you_bot
